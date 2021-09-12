@@ -10,15 +10,10 @@ Acesso pelo front-end:
 URL base: http://localhost:1337
 
 Rotas:
-Get: "/cars"
-Post: "/cars"
-Patch: "/cars/:id"
-Delete: "/cars/:id"
+- Get: "/cars"
+- Post: "/cars"
+- Patch: "/cars/:id"
+- Delete: "/cars/:id"
 
 Arquivo principal: server.js
 Arquivo do banco de dados: db.sqlite3
-
-
-    
-    
-    
